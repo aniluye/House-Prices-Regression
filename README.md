@@ -1,5 +1,8 @@
 # House-Prices-Competition---Regression
 Kaggle House Prices Competition - Advanced Regression Techniques
+
+
+
 MSSubClass: Identifies the type of dwelling involved in the sale.	
 
         20	1-STORY 1946 & NEWER ALL STYLES
